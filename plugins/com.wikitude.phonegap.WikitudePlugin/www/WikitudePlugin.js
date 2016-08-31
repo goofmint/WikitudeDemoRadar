@@ -9,7 +9,7 @@
 		 *  This is the SDK Key, provided to you after you purchased the Wikitude SDK from http =//www.wikitude.com/store/.
 		 *  You can obtain a free trial key at http =//www.wikitude.com/developer/licenses .
 		 */
-		this._sdkKey = "ENTER-YOUR-KEY-HERE";
+		 this._sdkKey = "ENTER-YOUR-KEY-HERE";
 
 		/**
 		 *  The Wikitude SDK can run in different modes.
