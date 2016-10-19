@@ -4,3 +4,4 @@ platforms/ios/
 plugins/com.wikitude.phonegap.WikitudePlugin
 plugins/cordova-plugin-compat/
 plugins/cordova-plugin-geolocation/
+plugins/com.wikitude.phonegap.WikitudePlugin

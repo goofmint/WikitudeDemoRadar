@@ -3,7 +3,7 @@
     
     <head>
 			<script type="text/javascript" src="js/ncmb.min.js"></script>
-      <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: architect: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; connect-src 'self' https://mb.api.cloud.nifty.com" >
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' data: architect: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; connect-src 'self' https://mb.api.cloud.nifty.com" >
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <meta content="width=device-width,initial-scale=1,maximum-scale=5,user-scalable=yes" name="viewport">
             
@@ -11,9 +11,19 @@
             
             <script src="architect://architect.js"></script>
             <script type="text/javascript" src="js/ade.js"></script>
+        <style>
+        .radarContainer_left {
+            position:absolute;
+            top:0px;
+            left:0px;
+            width:100px;
+            height:100px;
+        }        
+        </style>
     </head>
     
     <body>
+      <div class="radarContainer_left" id="radarContainer"></div>
       <script type="text/javascript" src="js/ar.js"></script>
 			<script type="text/javascript" src="js/ncmb.min.js"></script>
 		</body>

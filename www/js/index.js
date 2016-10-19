@@ -1,5 +1,5 @@
-var application_key = "e6...69";
-var client_key = "65...47";
+var application_key = "e6..69";
+var client_key = "65..47";
 
 var ncmb = new NCMB(application_key, client_key);
 
