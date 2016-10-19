@@ -1,5 +1,5 @@
-var application_key = "e617bee762e6c0799d20bc3ef45ead1ee87c99276c482a3c5b6b90e013d8a669";
-var client_key = "65c3eb97f9fe9e90bba279611d405121ddc1ea9beaea92ea77ee7ceb02b91247";
+var application_key = "e6...69";
+var client_key = "65...47";
 
 var ncmb = new NCMB(application_key, client_key);
 
